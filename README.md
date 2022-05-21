@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F2AF7FF&size=40&center=true&vCenter=true&lines=+Hi%2C+I'm+Ali+Osman.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&size=30&center=false&vCenter=true&lines=Hi,I'm+Ali+Osman.)](https://git.io/typing-svg)
 <h2>PAU MIS Student</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmancapgur&label=Profile%20views&color=0e75b6&style=flat" alt="osmancapgur" /> </p>
