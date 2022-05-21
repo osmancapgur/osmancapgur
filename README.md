@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <br>
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmancapgur&layout=compact&hide=html,css" alt="My Top Langs" />
-</p
+</p>
