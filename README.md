@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 <a href="https://tr.linkedin.com/in/ali-osman-capgur-0620" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="osman_capgur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/osman_capgur/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="osman_capgur" height="30" width="40" /></a>
 </p>
-<br>
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmancapgur&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
