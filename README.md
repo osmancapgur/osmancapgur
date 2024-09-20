@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://tr.linkedin.com/in/ali-osman-capgur-0620" target="blank">
+  <a href="https://tr.linkedin.com/in/ali-osman-capgur-0620" target="_blank" style="margin-right: 10px;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="osman_capgur" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/osman_capgur/" target="blank">
+  <a href="https://www.instagram.com/osman_capgur/" target="_blank" style="margin-left: 10px;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="osman_capgur" height="30" width="40" />
   </a>
 </p>
